@@ -1,0 +1,27 @@
+html {
+	font-family: sans-serif;
+	background: green;
+}
+body {
+	margin: auto;
+	width: 530px;
+}
+h1 {
+	font-size: 0.9em;
+	text-align: center;
+	color: #fff;
+}
+button {
+	float: left;
+}
+.playbox {
+	margin: auto;
+	height: 480px;
+	width: 530px;
+	padding-top: 50px;
+}
+.cell {
+	background-color: #fff;
+	border: 1px #000 solid;
+	float: left;
+}
